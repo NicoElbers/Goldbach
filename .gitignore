@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+.cache
+debug
+perf
+obj
+bin

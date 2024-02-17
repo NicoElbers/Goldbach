@@ -8,8 +8,8 @@
       "obj/main.o",
       "src/main.cpp"
     ],
-    "directory": "/home/nico/personal/cpp/cppLearning/goldbach",
-    "file": "/home/nico/personal/cpp/cppLearning/goldbach/src/main.cpp",
-    "output": "/home/nico/personal/cpp/cppLearning/goldbach/obj/main.o"
+    "directory": "/home/nico/personal/cpp/goldbach",
+    "file": "/home/nico/personal/cpp/goldbach/src/main.cpp",
+    "output": "/home/nico/personal/cpp/goldbach/obj/main.o"
   }
 ]
